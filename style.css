@@ -101,9 +101,9 @@ html{
 .home{
     display: flex;
     background: url("—Pngtree—purple\ blue\ simple\ gradient\ background_926903.jpg")  no-repeat center;
-    height: 100%;
+    height: 100vh;
     color: #fff;
-    min-height: 500px;      
+    min-height: 700px;      
     font-family: 'Ubuntu',sans-serif;
 }
 .home .max-width {
