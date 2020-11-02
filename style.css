@@ -99,12 +99,13 @@ html{
 
 /* Home Style */
 .home{
-    display: flex;
-    background: url("—Pngtree—purple\ blue\ simple\ gradient\ background_926903.jpg")  no-repeat center;
-    height: 100vh;
+    display:flex;
+    background: url("—Pngtree—purple\ blue\ simple\ gradient\ background_926903.jpg")  no-repeat center ;
     color: #fff;
-    min-height: 700px;      
+    min-height: 700px;
     font-family: 'Ubuntu',sans-serif;
+    background-size: auto ;
+
 }
 .home .max-width {
     margin: auto 0 auto 40px;
