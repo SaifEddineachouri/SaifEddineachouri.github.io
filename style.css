@@ -460,7 +460,6 @@ section .title::after{
 
 /* Contact style */
 .contact .title::after{
-    content: "Get in touch";
     color: #09c6f9;
 }
 .contact .contact-content .column{
